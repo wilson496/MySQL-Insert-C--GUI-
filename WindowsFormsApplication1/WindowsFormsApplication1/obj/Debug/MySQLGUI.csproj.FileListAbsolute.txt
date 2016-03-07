@@ -1,0 +1,16 @@
+D:\Users\Cameron\Documents\C#\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\Users\Cameron\Documents\C#\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Users\Cameron\Documents\C#\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Users\Cameron\Documents\C#\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\EntityFramework.dll
+D:\Users\Cameron\Documents\C#\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\EntityFramework.SqlServer.dll
+D:\Users\Cameron\Documents\C#\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\MySql.Data.dll
+D:\Users\Cameron\Documents\C#\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\MySql.Data.Entity.EF6.dll
+D:\Users\Cameron\Documents\C#\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\MySql.Web.dll
+D:\Users\Cameron\Documents\C#\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\EntityFramework.xml
+D:\Users\Cameron\Documents\C#\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\EntityFramework.SqlServer.xml
+D:\Users\Cameron\Documents\C#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\MySQLGUI.csprojResolveAssemblyReference.cache
+D:\Users\Cameron\Documents\C#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\Users\Cameron\Documents\C#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Users\Cameron\Documents\C#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\MySQLGUI.csproj.GenerateResource.Cache
+D:\Users\Cameron\Documents\C#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\Users\Cameron\Documents\C#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
